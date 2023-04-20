@@ -6,3 +6,6 @@
 3. Flash Reverso
 4. Doomsday
 5. Deadshot
+6. Test Lex Luthor 
+7. Test Joker
+8. Test Flash Reverso
