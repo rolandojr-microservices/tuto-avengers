@@ -9,3 +9,6 @@
 6. Test Lex Luthor 
 7. Test Joker
 8. Test Flash Reverso
+# Style
+1. Style Lex
+2. Style Joker
